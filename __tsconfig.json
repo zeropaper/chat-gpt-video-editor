@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "esModuleInterop": true,
+    "jsxFactory": "React.createElement",
+    "jsxFragmentFactory": "React.Fragment"
+  },
+  "include": ["**/*.ts", "**/*.tsx"],
+  "exclude": ["node_modules"]
+}
